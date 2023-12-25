@@ -1,1 +1,1 @@
-#INFO519 Introduction to Bioinformatics - Assignment
+INFO519 Introduction to Bioinformatics - Assignment
